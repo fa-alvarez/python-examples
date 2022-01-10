@@ -1,7 +1,7 @@
 # python_examples
 
-This repository is intended to contain some basic python code examples.  
-AAll examples are based on code from Google's Crash Course on Python available
+This repository is intended to contain some basic python code examples. All
+examples are based on code from Google's Crash Course on Python available
 on Cousera's site as of today.
 
 ## color_translator.py
