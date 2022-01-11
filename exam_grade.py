@@ -13,6 +13,7 @@ def exam_grade(score):
 		grade = "Fail"
 	return grade
 
+print(help(exam_grade))
 print(exam_grade(65)) # Should be Pass
 print(exam_grade(55)) # Should be Fail
 print(exam_grade(60)) # Should be Pass
