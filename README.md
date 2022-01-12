@@ -21,3 +21,7 @@ street named Y". The format of the input string is: numeric house number,
 followed by the street name which may contain numbers, but never by
 themselves, and could be several words long. For example, "123 Main Street",
 "1001 1st Ave", or "55 North Center Drive".
+
+## format_name.py
+This function receives the first_name and last_name parameters and then returns
+a properly formatted string.
