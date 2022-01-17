@@ -34,3 +34,7 @@ returns just the fractional part (a number between 0 and 1).
 The longest_word function is used to compare 3 words. It returns the
 word with the most number of characters (and the first in the list when they
 have the same length).
+
+## number_group.py
+The number_group function returns "Positive" if the number received is
+positive, "Negative" if it's negative, and "Zero" if it's 0.
