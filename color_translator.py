@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
 def color_translator(color):
-	"""The color_translator function receives the name of a color, then prints its hexadecimal value.
-	Currently, it only supports the three additive primary colors (red, green, blue), so it returns
-	"unknown" for all other colors."""
+	"""The color_translator function receives the name of a color, then prints
+	its hexadecimal value.  Currently, it only supports the three additive
+	primary colors (red, green, blue), so it returns "unknown" for all other
+	colors."""
 	if color == "red":
 		hex_color = "#ff0000"
 	elif color == "green":

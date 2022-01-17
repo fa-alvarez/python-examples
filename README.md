@@ -29,3 +29,8 @@ a properly formatted string.
 ## fractional_part.py
 The fractional_part function divides the numerator by the denominator, and
 returns just the fractional part (a number between 0 and 1).
+
+## longest_word.py
+The longest_word function is used to compare 3 words. It returns the
+word with the most number of characters (and the first in the list when they
+have the same length).

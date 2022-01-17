@@ -6,8 +6,7 @@ def format_address(address_string):
     street named Y". The format of the input string is: numeric house number,
     followed by the street name which may contain numbers, but never by
     themselves, and could be several words long. For example, "123 Main Street",
-    "1001 1st Ave", or "55 North Center Drive". Fill in the gaps to complete this
-    function."""
+    "1001 1st Ave", or "55 North Center Drive"."""
     number = 0
     street = ""
     parts = address_string.split()

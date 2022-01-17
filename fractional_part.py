@@ -2,8 +2,7 @@
 
 def fractional_part(numerator, denominator):
 	"""The fractional_part function divides the numerator by the denominator, and
-	returns just the fractional part (a number between 0 and 1). Complete the
-	body of the function so that it returns the right number."""
+	returns just the fractional part (a number between 0 and 1)."""
 	if denominator != 0:
 		return (numerator % denominator) / denominator
 	return 0
