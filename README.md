@@ -25,3 +25,7 @@ themselves, and could be several words long. For example, "123 Main Street",
 ## format_name.py
 This function receives the first_name and last_name parameters and then returns
 a properly formatted string.
+
+## fractional_part.py
+The fractional_part function divides the numerator by the denominator, and
+returns just the fractional part (a number between 0 and 1).
