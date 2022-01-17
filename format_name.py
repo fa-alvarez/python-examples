@@ -24,3 +24,6 @@ print(format_name("Voltaire", ""))
 
 print(format_name("", ""))
 # Should return an empty string
+
+print(format_name("William", "Shakespeare"))
+# Should return the string "Name: Shakespeare, William"
