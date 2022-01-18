@@ -41,7 +41,7 @@ have the same length).
 The number_group function returns "Positive" if the number received is
 positive, "Negative" if it's negative, and "Zero" if it's 0.
 
-## dictionaries
+## Dictionaries
 
 ### add_prices.py
 The add_prices function returns the total price of all of the groceries in
