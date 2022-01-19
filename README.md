@@ -46,3 +46,12 @@ positive, "Negative" if it's negative, and "Zero" if it's 0.
 ### add_prices.py
 The add_prices function returns the total price of all of the groceries in
 the  dictionary.
+
+### combine_guests.py
+Taylor and Rory are hosting a party. They sent out invitations, and each one
+collected responses into dictionaries, with names of their friends and how
+many guests each friend is bringing. Each dictionary is a partial list, but
+Rory's list has more current information about the number of guests. This
+function combines both dictionaries into one, with each friend listed only
+once, and the number of guests from Rory's dictionary taking precedence, if a
+name is included in both dictionaries. Then it prints the resulting dictionary.
