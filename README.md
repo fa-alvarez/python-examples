@@ -55,3 +55,10 @@ Rory's list has more current information about the number of guests. This
 function combines both dictionaries into one, with each friend listed only
 once, and the number of guests from Rory's dictionary taking precedence, if a
 name is included in both dictionaries. Then it prints the resulting dictionary.
+
+### count_letters.py
+The count_letters function counts the frequency of letters in the input
+string.  Only letters are counted, not blank spaces, numbers, or
+punctuation.  Upper case are considered the same as lower case.
+For example, count_letters("This is a sentence.") should return
+{'t': 2, 'h': 1, 'i': 2, 's': 3, 'a': 1, 'e': 3, 'n': 2, 'c': 1}.
