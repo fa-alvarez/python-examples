@@ -62,3 +62,8 @@ string.  Only letters are counted, not blank spaces, numbers, or
 punctuation.  Upper case are considered the same as lower case.
 For example, count_letters("This is a sentence.") should return
 {'t': 2, 'h': 1, 'i': 2, 's': 3, 'a': 1, 'e': 3, 'n': 2, 'c': 1}.
+
+### email_list.py
+The email_list function receives a dictionary, which contains domain names as
+keys, and a list of users as values. It returns a list
+that contains complete email addresses (e.g. diana.prince@gmail.com).
