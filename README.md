@@ -77,3 +77,6 @@ dictionary with the users as keys and a list of their groups as values.
 
 ### convert_distance.py
 This function converts miles to kilometers (km).
+
+### order_numbers.py
+This function compares two numbers and returns them in increasing order.
