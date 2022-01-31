@@ -1,4 +1,4 @@
-# python_examples
+# python-examples
 El objetivo de este repositorio es contener algunos ejemplos básicos de
 código python.  Todos los ejemplos están basados en código del curso
 de Crash Course on Python de Google disponible en el sitio de Coursera
