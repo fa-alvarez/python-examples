@@ -3,6 +3,7 @@ This repository is intended to contain some basic python code examples. All
 examples are based on code from Google's Crash Course on Python available
 on Cousera's site as of today.
 
+
 ## Conditionals
 
 ### color_translator.py
@@ -41,6 +42,7 @@ have the same length).
 The number_group function returns "Positive" if the number received is
 positive, "Negative" if it's negative, and "Zero" if it's 0.
 
+
 ## Dictionaries
 
 ### add_prices.py
@@ -73,6 +75,7 @@ The groups_per_user function receives a dictionary, which contains group names
 with the list of users. Users can belong to multiple groups. It returns a
 dictionary with the users as keys and a list of their groups as values.
 
+
 ## Functions
 
 ### convert_distance.py
@@ -80,3 +83,17 @@ This function converts miles to kilometers (km).
 
 ### order_numbers.py
 This function compares two numbers and returns them in increasing order.
+
+
+## Lists
+
+### combine_lists.py
+A professor with two assistants, Jamie and Drew, wants an attendance list of
+the students, in the order that they arrived in the classroom. Drew was the
+first one to note which students arrived, and then Jamie took over. After the
+class, they each entered their lists into the computer and emailed them to
+the professor, who needs to combine them into one, in the order of each
+student's arrival. Jamie emailed a follow-up, saying that her list is in
+reverse order. The combine_lists function combines them into one list as follows:
+the contents of Drew's list, followed by Jamie's list in reverse order, to
+get an accurate list of the students as they arrived.

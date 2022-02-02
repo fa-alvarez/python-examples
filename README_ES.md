@@ -59,3 +59,17 @@ La función convert_distance convierte millas en kilómetros (km).
 
 ### order_numbers.py
 La función order_numbers compara dos números y los devuelve en orden creciente.
+
+
+## Lists
+
+### combine_lists.py
+Un profesor con dos asistentes, Jamie y Drew, necesita una lista de estudiantes
+asistentes en el orden en que llegaron a la sala de clases.  Drew fue el primero
+en anotar quienes llegaron y luego Jamie tomó su lugar.  Después de clases,
+cada uno ingresó sus listas en el computador y se las envió por correo al
+profesor, quien necesita combinar ambas listas en el orden de llegada de cada
+estudiante.  Jamie avisó al profesor por correo que su lista está en orden
+inverso.  La función combine_lists combina ambas listas en una de la siguiente
+forma: el contenido de la lista de Drew, seguido de la lista de Jamie en orden
+inverso, para obtener una lista exacta de la llegada de los estudiantes.
