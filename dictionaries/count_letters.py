@@ -26,3 +26,6 @@ print(count_letters("Math is fun! 2+2=4"))
 
 print(count_letters("This is a sentence."))
 # Should be {'t': 2, 'h': 1, 'i': 2, 's': 3, 'a': 1, 'e': 3, 'n': 2, 'c': 1}
+
+print(count_letters("Only when I lose myself in someone else"))
+# Shoud be {'o': 4, 'n': 4, 'l': 4, 'y': 2, 'w': 1, 'h': 1, 'e': 7, 'i': 2, 's': 4, 'm': 2, 'f': 1}
