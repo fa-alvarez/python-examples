@@ -1,24 +1,17 @@
 # python-examples
-El objetivo de este repositorio es contener algunos ejemplos básicos de
-código python.  Todos los ejemplos están basados en código del curso
-de Crash Course on Python de Google disponible en el sitio de Coursera
-al día de hoy.
+Este repositorio contiene algunos ejemplos básicos de código en python.  Todos los ejemplos están basados en código del curso de Crash Course on Python de Google disponible en el sitio de Coursera al día de hoy.
 
 
 ## Conditionals
 
 ### color_translator.py
-La función color_translator recibe el nombre de un color y luego imprime su
-valor hexadecimal.  Actualmente, solo soporta los tres colores primarios
-aditivos (rojo, verde, azul), por lo que devuelve "unknown" (desconocido) para todos los
-demás colores.
+La función color_translator recibe el nombre de un color y luego imprime su valor hexadecimal.  Actualmente, solo soporta los tres colores primarios aditivos (rojo, verde, azul), por lo que devuelve "unknown" (desconocido) para todos los demás colores.
 
 ### exam_grade.py
 Los estudiantes de una clase reciben sus calificaciones como Aprobado/Reprobado. Las notas de 60 o más (de 100) significan "Pass" (Aprobado). Las notas menores, "Fail" (Reprobado).  Además, las notas por sobre 95 (no incluido) son calificadas como "Top Score" (Puntuación Máxima).  Esta función recibe la nota y devuelve la correspondiente calificación.
 
 ### format_address.py
-La función format_address separa partes de una cadena de dirección en nuevas cadenas: house_number y street_name, y devuelve: "house number X on
-street named Y" (número de casa X en la calle de nombre Y).  El formato de la cadena de entrada es: número de casa numérico, seguido por el nombre de calle el cual puede contener números, pero nunca por sí mismos, y podría ser varias palabras de largo.  Por ejemplo, "123 Main Street", "1001 1st Ave", o "55 North Center Drive".  
+La función format_address separa partes de una cadena de dirección en nuevas cadenas: house_number y street_name, y devuelve: "house number X on street named Y" (número de casa X en la calle de nombre Y).  El formato de la cadena de entrada es: número de casa numérico, seguido por el nombre de calle el cual puede contener números, pero nunca por sí mismos, y podría ser varias palabras de largo.  Por ejemplo, "123 Main Street", "1001 1st Ave", o "55 North Center Drive".  
 
 ### format_name.py
 Esta función recibe los parámetros first_name (primer_nombre) y last_name (apellido) y luego devuelve una cadena apropiadamente formateada.
@@ -42,8 +35,7 @@ La función add_prices devuelve el precio total de todos los comestibles en el d
 Taylor y Rory están organizando una fiesta.  Enviaron invitaciones y cada uno guardó las respuestas en diccionarios con los nombres de sus amigos y cuántos invitados cada uno traería.  Cada diccionario es una lista parcial, pero la lista de Rory tiene información más actualizada sobre el número de invitados.  Esta función combina ambos diccionarios en uno, con cada amigo listado una sola vez, y el número de invitados del diccionario de Rory tomando precedencia en caso de que el nombre esté incluido en ambos diccionarios.  Luego, la función imprime el diccionario resultante.
 
 ### count_letters.py
-La función count_letters cuenta la frecuencia de las letras en una cadena de entrada.  Solo se cuentan las letras, no los espacios en blanco, ni los números, ni las puntuaciones.  Las mayúsculas se consideran igual que las minúsculas.  Por ejemplo, count_letters("This is a sentence.") debería devolver
-{'t': 2, 'h': 1, 'i': 2, 's': 3, 'a': 1, 'e': 3, 'n': 2, 'c': 1}.
+La función count_letters cuenta la frecuencia de las letras en una cadena de entrada.  Solo se cuentan las letras, no los espacios en blanco, ni los números, ni las puntuaciones.  Las mayúsculas se consideran igual que las minúsculas.  Por ejemplo, count_letters("This is a sentence.") debería devolver {'t': 2, 'h': 1, 'i': 2, 's': 3, 'a': 1, 'e': 3, 'n': 2, 'c': 1}.
 
 ### email_list.py
 La función email_list recibe un diccionario, el cual contiene nombres de dominio como claves y una lista de usuarios como valores.  Devuelve una lista que contiene direcciones email completas (e.j. diana.prince@gmail.com).
@@ -64,15 +56,7 @@ La función order_numbers compara dos números y los devuelve en orden creciente
 ## Lists
 
 ### combine_lists.py
-Un profesor con dos asistentes, Jamie y Drew, necesita una lista de estudiantes
-asistentes en el orden en que llegaron a la sala de clases.  Drew fue el primero
-en anotar quienes llegaron y luego Jamie tomó su lugar.  Después de clases,
-cada uno ingresó sus listas en el computador y se las envió por correo al
-profesor, quien necesita combinar ambas listas en el orden de llegada de cada
-estudiante.  Jamie avisó al profesor por correo que su lista está en orden
-inverso.  La función combine_lists combina ambas listas en una de la siguiente
-forma: el contenido de la lista de Drew, seguido de la lista de Jamie en orden
-inverso, para obtener una lista exacta de la llegada de los estudiantes.
+Un profesor con dos asistentes, Jamie y Drew, necesita una lista de estudiantes asistentes en el orden en que llegaron a la sala de clases.  Drew fue el primero en anotar quienes llegaron y luego Jamie tomó su lugar.  Después de clases, cada uno ingresó sus listas en el computador y se las envió por correo al profesor, quien necesita combinar ambas listas en el orden de llegada de cada estudiante.  Jamie avisó al profesor por correo que su lista está en orden inverso.  La función combine_lists combina ambas listas en una de la siguiente forma: el contenido de la lista de Drew, seguido de la lista de Jamie en orden inverso, para obtener una lista exacta de la llegada de los estudiantes.
 
 ### file_size.py
 La función file_size recibe una tupla para almacenar información sobre un archivo: su nombre, su tipo y su tamaño en bytes.  Devuelve el tamaño en kilobytes (un kilobyte es 1024 bytes) con hasta dos decimales.
