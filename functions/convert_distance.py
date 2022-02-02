@@ -10,4 +10,6 @@ my_trip_miles = 55
 my_trip_km = convert_distance(my_trip_miles)
 
 print("The distance in kilometers is " + str(my_trip_km))
-print("The round-trip in kilometers is " + str(my_trip_km*2))
+print("The round-trip in kilometers is " + str(my_trip_km * 2))
+print("The monthly round-trip in one year in kilometers is " + \
+	str(my_trip_km * 2 * 12))
