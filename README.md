@@ -94,6 +94,9 @@ first one to note which students arrived, and then Jamie took over. After the
 class, they each entered their lists into the computer and emailed them to
 the professor, who needs to combine them into one, in the order of each
 student's arrival. Jamie emailed a follow-up, saying that her list is in
-reverse order. The combine_lists function combines them into one list as follows:
-the contents of Drew's list, followed by Jamie's list in reverse order, to
-get an accurate list of the students as they arrived.
+reverse order. The combine_lists function combines them into one list as follows: the contents of Drew's list, followed by Jamie's list in reverse order, to get an accurate list of the students as they arrived.
+
+### file_size.py
+The file_size function receives a tuple to store information about a file:
+its name, its type and its size in bytes. It returns the size in
+kilobytes (a kilobyte is 1024 bytes) up to 2 decimal places.

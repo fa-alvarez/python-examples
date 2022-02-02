@@ -73,3 +73,6 @@ estudiante.  Jamie avisó al profesor por correo que su lista está en orden
 inverso.  La función combine_lists combina ambas listas en una de la siguiente
 forma: el contenido de la lista de Drew, seguido de la lista de Jamie en orden
 inverso, para obtener una lista exacta de la llegada de los estudiantes.
+
+### file_size.py
+La función file_size recibe una tupla para almacenar información sobre un archivo: su nombre, su tipo y su tamaño en bytes.  Devuelve el tamaño en kilobytes (un kilobyte es 1024 bytes) con hasta dos decimales.
