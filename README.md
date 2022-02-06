@@ -60,3 +60,7 @@ A professor with two assistants, Jamie and Drew, wants an attendance list of the
 
 ### file_size.py
 The file_size function receives a tuple to store information about a file: its name, its type and its size in bytes. It returns the size in kilobytes (a kilobyte is 1024 bytes) up to 2 decimal places.
+
+### filenames.py
+Given a list of filenames, this code renames all the files with extension hpp
+to the extension h.

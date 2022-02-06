@@ -60,3 +60,6 @@ Un profesor con dos asistentes, Jamie y Drew, necesita una lista de estudiantes 
 
 ### file_size.py
 La función file_size recibe una tupla para almacenar información sobre un archivo: su nombre, su tipo y su tamaño en bytes.  Devuelve el tamaño en kilobytes (un kilobyte es 1024 bytes) con hasta dos decimales.
+
+### filenames.py
+Dada una lista de nombres de archivo, este código renombra todos los archivos con extensión hhp a la extensión h.
