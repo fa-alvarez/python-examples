@@ -63,3 +63,10 @@ La función file_size recibe una tupla para almacenar información sobre un arch
 
 ### filenames.py
 Dada una lista de nombres de archivo, este código renombra todos los archivos con extensión hhp a la extensión h.
+
+### octal_to_string.py
+Los permisos de un archivo en un sistema Linux se dividen en tres conjuntos de tres permisos: lectura, escritura y ejecución para el propietario, grupo y otros.  Cada uno de los tres valores puede ser expresado como un número octal sumando cada permiso, con 4 correspondiendo a lectura, 2 a escritura y 1 a ejecución.  O puede ser escrito con una cadena usando las letras r (lectura), w (escritura) y x (ejecución) o - cuando no hay permiso otorgado.
+Por ejemplo:
+640 es lectura/escritura para el propietario, lectura para el grupo y sin permisos para otros; convertido en cadena sería: "rw-r-----"
+755 es lectura/escritura/ejecución para el propietario, y lectura/ejecución para el grupo y otros; convertido en cadena sería: "rwxr-xr-x"
+La función octal_to_string convierte un permiso en formato octal en su formato en cadena.
