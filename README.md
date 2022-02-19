@@ -74,3 +74,7 @@ For example:
 755 is read/write/execute for the owner, and read/execute for group and others; converted to a string, it would be: "rwxr-xr-x"
 
 The octal_to_string function converts a permission in octal format into a string format.
+
+### odd_numbers.py
+The odd_numbers function returns a list of odd numbers between 1 and n,
+inclusively.

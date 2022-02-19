@@ -73,3 +73,6 @@ Por ejemplo:
 755 es lectura/escritura/ejecución para el propietario, y lectura/ejecución para el grupo y otros; convertido en cadena sería: "rwxr-xr-x"
 
 La función octal_to_string convierte un permiso en formato octal en su formato en cadena.
+
+### odd_numbers.py
+La función odd_numbers devuelve una lista de números impares entre 1 y n, incluido este último.
