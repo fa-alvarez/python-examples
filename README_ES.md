@@ -76,3 +76,6 @@ La función octal_to_string convierte un permiso en formato octal en su formato 
 
 ### odd_numbers.py
 La función odd_numbers devuelve una lista de números impares entre 1 y n, incluido este último.
+
+### pig_latin.py
+La función pig_latin convierte texto en latin porcino: una simple transformación de texto que modifica cada palabra moviendo el primer caracter al final y agregando "ay" al final.  Por ejemplo, python termina como ythonpay.

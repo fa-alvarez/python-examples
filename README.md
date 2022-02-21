@@ -78,3 +78,6 @@ The octal_to_string function converts a permission in octal format into a string
 ### odd_numbers.py
 The odd_numbers function returns a list of odd numbers between 1 and n,
 inclusively.
+
+### pig_latin.py
+The pig_latin function turns text into pig latin: a simple text transformation that modifies each word moving the first character to the end  and appending "ay" to the end. For example, python ends up as ythonpay.
