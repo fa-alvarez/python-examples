@@ -81,3 +81,6 @@ inclusively.
 
 ### pig_latin.py
 The pig_latin function turns text into pig latin: a simple text transformation that modifies each word moving the first character to the end  and appending "ay" to the end. For example, python ends up as ythonpay.
+
+### squares.py
+The squares function uses a list comprehension to create a list of squared numbers (n*n).  It receives the variables start and end, and returns a list of squares of consecutive numbers between start and end inclusively. For example, squares(2, 3) should return [4, 9].

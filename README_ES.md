@@ -79,3 +79,6 @@ La función odd_numbers devuelve una lista de números impares entre 1 y n, incl
 
 ### pig_latin.py
 La función pig_latin convierte texto en latin porcino: una simple transformación de texto que modifica cada palabra moviendo el primer caracter al final y agregando "ay" al final.  Por ejemplo, python termina como ythonpay.
+
+### squares.py
+La función squares usa una comprensión de listas para crear una lista de números cuadrados (n\*n).  Recibe las variables *start* y *end*, y devuelve una lista de cuadrados de números consecutivos entre *start* y *end*, ambos incluidos.  Por ejemplo, squares(2, 3) debería retornar [4, 9]
