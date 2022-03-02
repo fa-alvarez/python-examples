@@ -82,3 +82,9 @@ La función pig_latin convierte texto en latin porcino: una simple transformaci�
 
 ### squares.py
 La función squares usa una comprensión de listas para crear una lista de números cuadrados (n\*n).  Recibe las variables *start* y *end*, y devuelve una lista de cuadrados de números consecutivos entre *start* y *end*, ambos incluidos.  Por ejemplo, squares(2, 3) debería retornar [4, 9]
+
+
+## Loops
+
+### counter.py
+La función counter realiza una cuenta regresiva desde *start* hasta *stop* cuando *start* es mayor que *stop*, y una cuenta progresiva desde *start* hasta *stop* en caso contrario.

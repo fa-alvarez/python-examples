@@ -84,3 +84,9 @@ The pig_latin function turns text into pig latin: a simple text transformation t
 
 ### squares.py
 The squares function uses a list comprehension to create a list of squared numbers (n*n).  It receives the variables start and end, and returns a list of squares of consecutive numbers between start and end inclusively. For example, squares(2, 3) should return [4, 9].
+
+
+## Loops
+
+### counter.py
+The counter function counts down from start to stop when start is bigger than stop, and counts up from start to stop otherwise.
