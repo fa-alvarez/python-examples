@@ -88,3 +88,6 @@ La función squares usa una comprensión de listas para crear una lista de núme
 
 ### counter.py
 La función counter realiza una cuenta regresiva desde *start* hasta *stop* cuando *start* es mayor que *stop*, y una cuenta progresiva desde *start* hasta *stop* en caso contrario.
+
+### digits.py
+La función digits devuelve la cantidad de dígitos que tiene un número.  Por ejemplo: 25 tiene 2 dígitos y 144 tiene 3 dígitos.

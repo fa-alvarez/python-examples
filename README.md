@@ -90,3 +90,6 @@ The squares function uses a list comprehension to create a list of squared numbe
 
 ### counter.py
 The counter function counts down from start to stop when start is bigger than stop, and counts up from start to stop otherwise.
+
+### digits.py
+The digits function returns how many digits a number has.  For example: 25 has 2 digits and 144 has 3 digits.
