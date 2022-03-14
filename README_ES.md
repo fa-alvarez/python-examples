@@ -91,3 +91,6 @@ La función counter realiza una cuenta regresiva desde *start* hasta *stop* cuan
 
 ### digits.py
 La función digits devuelve la cantidad de dígitos que tiene un número.  Por ejemplo: 25 tiene 2 dígitos y 144 tiene 3 dígitos.
+
+### even_numbers.py
+La función even_numbers devuelve una cadena de todos los números positivos divisibles por 2 separados por espacio, hasta e incluyendo el máximo que se le entrega a la función.  Por ejemplo, even_numbers(6) devuelve “2 4 6”.

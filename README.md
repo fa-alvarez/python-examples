@@ -93,3 +93,6 @@ The counter function counts down from start to stop when start is bigger than st
 
 ### digits.py
 The digits function returns how many digits a number has.  For example: 25 has 2 digits and 144 has 3 digits.
+
+### even_numbers.py
+The even_numbers function returns a space-separated string of all positive numbers that are divisible by 2, up to and including the maximum that's passed into the function. For example, even_numbers(6) returns “2 4 6”.
