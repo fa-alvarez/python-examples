@@ -96,4 +96,4 @@ La función digits devuelve la cantidad de dígitos que tiene un número.  Por e
 La función even_numbers devuelve una cadena de todos los números positivos divisibles por 2 separados por espacio, hasta e incluyendo el máximo que se le entrega a la función.  Por ejemplo, even_numbers(6) devuelve “2 4 6”.
 
 ### factorial.py
-La función factorial devuelve el producto de un entero y todos los enteros bajo él.  Por ejemplo, el factorial de cuatro (4!) es igual a 1*2*3*4=24.
+La función factorial devuelve el producto de un entero y todos los enteros bajo él.  Por ejemplo, el factorial de cuatro (4!) es igual a 1\*2\*3\*4=24.

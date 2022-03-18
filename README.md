@@ -98,4 +98,4 @@ The digits function returns how many digits a number has.  For example: 25 has 2
 The even_numbers function returns a space-separated string of all positive numbers that are divisible by 2, up to and including the maximum that's passed into the function. For example, even_numbers(6) returns “2 4 6”.
 
 ### factorial.py
-The factorial function returns the product of an integer and all the   integers below it.  For example, the factorial of four (4!) is equal to 1*2*3*4=24.
+The factorial function returns the product of an integer and all the   integers below it.  For example, the factorial of four (4!) is equal to 1\*2\*3\*4=24.
