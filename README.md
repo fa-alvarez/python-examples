@@ -99,3 +99,6 @@ The even_numbers function returns a space-separated string of all positive numbe
 
 ### factorial.py
 The factorial function returns the product of an integer and all the   integers below it.  For example, the factorial of four (4!) is equal to 1\*2\*3\*4=24.
+
+### multiplication_table.py
+This function prints out a multiplication table (where each number is the result of multiplying the first number of its row by the number at the top of its column).

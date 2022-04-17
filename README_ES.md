@@ -97,3 +97,6 @@ La función even_numbers devuelve una cadena de todos los números positivos div
 
 ### factorial.py
 La función factorial devuelve el producto de un entero y todos los enteros bajo él.  Por ejemplo, el factorial de cuatro (4!) es igual a 1\*2\*3\*4=24.
+
+### multiplication_table.py
+Esta función imprime una tabla de multiplicación (donde cada número es el resultado de multiplicar el primer número de su fila por el primer número de su columna).
