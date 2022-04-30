@@ -102,3 +102,6 @@ The factorial function returns the product of an integer and all the   integers 
 
 ### multiplication_table.py
 This function prints out a multiplication table (where each number is the result of multiplying the first number of its row by the number at the top of its column).
+
+### show_letters.py
+The show_letters function prints out each letter of a word on a separate line.

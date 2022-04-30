@@ -100,3 +100,6 @@ La función factorial devuelve el producto de un entero y todos los enteros bajo
 
 ### multiplication_table.py
 Esta función imprime una tabla de multiplicación (donde cada número es el resultado de multiplicar el primer número de su fila por el primer número de su columna).
+
+### show_letters.py
+La función show_letters imprime cada letra de una palabra en una línea separada.
