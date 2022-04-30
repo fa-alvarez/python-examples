@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
-# The show_letters function should print out each letter of a word on a separate
-# line. Fill in the blanks to make that happen.
-
 def show_letters(word):
+	"""The show_letters function prints out each letter of a word on a separate
+	line."""
 	for x in word:
 		print(x)
 
