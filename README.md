@@ -62,8 +62,7 @@ A professor with two assistants, Jamie and Drew, wants an attendance list of the
 The file_size function receives a tuple to store information about a file: its name, its type and its size in bytes. It returns the size in kilobytes (a kilobyte is 1024 bytes) up to 2 decimal places.
 
 ### filenames.py
-Given a list of filenames, this code renames all the files with extension hpp
-to the extension h.
+Given a list of filenames, this code renames all the files with extension hpp to the extension h.
 
 ### octal_to_string.py
 The permissions of a file in a Linux system are split into three sets of three permissions: read, write, and execute for the owner, group, and others.  Each of the three values can be expressed as an octal number summing each permission, with 4 corresponding to read, 2 to write, and 1 to execute.  Or it can be written with a string using the letters r, w, and x or - when the permission is not granted.
@@ -76,8 +75,7 @@ For example:
 The octal_to_string function converts a permission in octal format into a string format.
 
 ### odd_numbers.py
-The odd_numbers function returns a list of odd numbers between 1 and n,
-inclusively.
+The odd_numbers function returns a list of odd numbers between 1 and n, inclusively.
 
 ### pig_latin.py
 The pig_latin function turns text into pig latin: a simple text transformation that modifies each word moving the first character to the end  and appending "ay" to the end. For example, python ends up as ythonpay.
@@ -98,7 +96,7 @@ The digits function returns how many digits a number has.  For example: 25 has 2
 The even_numbers function returns a space-separated string of all positive numbers that are divisible by 2, up to and including the maximum that's passed into the function. For example, even_numbers(6) returns “2 4 6”.
 
 ### factorial.py
-The factorial function returns the product of an integer and all the   integers below it.  For example, the factorial of four (4!) is equal to 1\*2\*3\*4=24.
+The factorial function returns the product of an integer and all the integers below it.  For example, the factorial of four (4!) is equal to 1\*2\*3\*4=24.
 
 ### multiplication_table.py
 This function prints out a multiplication table (where each number is the result of multiplying the first number of its row by the number at the top of its column).
