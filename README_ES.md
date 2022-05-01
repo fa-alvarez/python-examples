@@ -103,3 +103,6 @@ Esta función imprime una tabla de multiplicación (donde cada número es el res
 
 ### show_letters.py
 La función show_letters imprime cada letra de una palabra en una línea separada.
+
+### square.py
+La función sum_squares devuelve la suma de todos los cuadrados de los números entre 0 y x (no incluido).

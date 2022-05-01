@@ -90,7 +90,8 @@ The squares function uses a list comprehension to create a list of squared numbe
 The counter function counts down from start to stop when start is bigger than stop, and counts up from start to stop otherwise.
 
 ### digits.py
-The digits function returns how many digits a number has.  For example: 25 has 2 digits and 144 has 3 digits.
+The digits functThe sum_squares function returns the sum of all the squares of numbers
+    between 0 and x (not included)ion returns how many digits a number has.  For example: 25 has 2 digits and 144 has 3 digits.
 
 ### even_numbers.py
 The even_numbers function returns a space-separated string of all positive numbers that are divisible by 2, up to and including the maximum that's passed into the function. For example, even_numbers(6) returns “2 4 6”.
@@ -103,3 +104,6 @@ This function prints out a multiplication table (where each number is the result
 
 ### show_letters.py
 The show_letters function prints out each letter of a word on a separate line.
+
+### square.py
+The sum_squares function returns the sum of all the squares of numbers between 0 and x (not included).
