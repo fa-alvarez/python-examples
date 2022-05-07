@@ -107,3 +107,9 @@ The show_letters function prints out each letter of a word on a separate line.
 
 ### square.py
 The sum_squares function returns the sum of all the squares of numbers between 0 and x (not included).
+
+
+## OOP (Object-Oriented Programming)
+
+#### animal.py
+An example of inheritance making animals speak.

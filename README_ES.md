@@ -106,3 +106,9 @@ La función show_letters imprime cada letra de una palabra en una línea separad
 
 ### square.py
 La función sum_squares devuelve la suma de todos los cuadrados de los números entre 0 y x (no incluido).
+
+
+## OOP (Programación Orientada a Objetos)
+
+#### animal.py
+Un ejemplo de herencia que hace hablar a los animales.
