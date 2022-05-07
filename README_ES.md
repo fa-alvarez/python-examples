@@ -112,3 +112,6 @@ La función sum_squares devuelve la suma de todos los cuadrados de los números 
 
 #### animal.py
 Un ejemplo de herencia que hace hablar a los animales.
+
+### city.py
+La clase City tiene los siguientes atributos: nombre, país (donde se ubica la ciudad), elevación (medida en metros), y población (aproximada, de acuerdo a recientes estadísticas).  La función max_elevation_city devuelve el nombre de la ciudad y su país (separados por coma), cuando se comparan 3 instancias definidas para una población mínima específica.  Por ejemplo, llamar a la función para una población mínima de 1 millón: max_elevation_city(1000000) debería devolver "Sofia, Bulgaria".

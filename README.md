@@ -111,5 +111,8 @@ The sum_squares function returns the sum of all the squares of numbers between 0
 
 ## OOP (Object-Oriented Programming)
 
-#### animal.py
+### animal.py
 An example of inheritance making animals speak.
+
+### city.py
+The City class has the following attributes: name, country (where the city is located), elevation (measured in meters), and population (approximate, according to recent statistics). The max_elevation_city function returns the name of the city and its country (separated by a comma), when comparing the 3 defined instances for a specified minimal population. For example, calling the function for a minimum population of 1 million: max_elevation_city(1000000) should return "Sofia, Bulgaria".
