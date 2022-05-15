@@ -119,3 +119,6 @@ The City class has the following attributes: name, country (where the city is lo
 
 ### clothing1.py
 In this example we have a base class called Clothing.  A second class, called Shirt, inherits methods from the Clothing class.
+
+### clothing2.py
+This script shows the current clothing stock by material.  First, it adds up 6 cotton shirts followed by 4 cotton sweatpants. Finally, it prints out the result.

@@ -118,3 +118,6 @@ La clase City tiene los siguientes atributos: nombre, país (donde se ubica la c
 
 ### clothing1.py
 En este ejemplo tenemos una clase base llamada Clothing.  Una segunda clase, llamada Shirt, hereda métodos desde la clase Clothing.
+
+### clothing2.py
+Este código muestra el actual inventario de ropa por material.  Primero, agrega 6 camisas de algodón seguido de 4 pantalones deportivos de algodón.  Finalmente, imprime el resultado.
