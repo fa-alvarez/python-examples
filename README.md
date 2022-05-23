@@ -122,3 +122,6 @@ In this example we have a base class called Clothing.  A second class, called Sh
 
 ### clothing2.py
 This script shows the current clothing stock by material.  First, it adds up 6 cotton shirts followed by 4 cotton sweatpants. Finally, it prints out the result.
+
+### dog.py
+The Dog class contains a method that returns seven times the entered year (one human year is about 7 dog years).
