@@ -131,3 +131,6 @@ This code defines an Elevator class. The elevator has a current floor, it also h
 
 ### flower.py
 This script prints a poem.
+
+### fruit.py
+This is a very basic inheritance example.

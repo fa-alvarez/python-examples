@@ -130,3 +130,6 @@ Este código define una clase Elevator.  El ascensor tiene un piso actual.  Tamb
 
 ### flower.py
 Este código imprime un poema.
+
+### fruit.py
+Este es un ejemplo muy básico de herencia.
