@@ -133,3 +133,6 @@ Este código imprime un poema.
 
 ### fruit.py
 Este es un ejemplo muy básico de herencia.
+
+### furniture.py
+Tenemos dos muebles: una mesa de madera café y un sofá de cuero rojo.  La función describe_furniture puede dar formato a una oración que describe estas piezas como sigue: "This piece of furniture is made of {color} {material}" ("Este mueble está hecho de {color} {material}").
