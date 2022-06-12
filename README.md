@@ -137,3 +137,6 @@ This is a very basic inheritance example.
 
 ### furniture.py
 We have two pieces of furniture: a brown wood table and a red leather couch. The describe_furniture function can format a sentence that describes these pieces as follows: "This piece of furniture is made of {color} {material}".
+
+### zoo.py
+This script shows how many types of animals are in a certain category in a zoo.
