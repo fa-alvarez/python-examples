@@ -139,3 +139,9 @@ Tenemos dos muebles: una mesa de madera café y un sofá de cuero rojo.  La func
 
 ### zoo.py
 Este código muestra cuántos tipos de animales hay en una cierta categoría de un zoológico.
+
+
+## Resursion
+
+### is_power_of.py
+Esta función devuelve si un número es potencia de una determinada base.  Nota: se asume que la base es un número positivo.

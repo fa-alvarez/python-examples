@@ -140,3 +140,9 @@ We have two pieces of furniture: a brown wood table and a red leather couch. The
 
 ### zoo.py
 This script shows how many types of animals are in a certain category in a zoo.
+
+
+## Resursion 
+
+### is_power_of.py
+This function returns whether the number is a power of the given base. Note: base is assumed to be a positive number.
