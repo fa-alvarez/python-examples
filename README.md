@@ -142,7 +142,10 @@ We have two pieces of furniture: a brown wood table and a red leather couch. The
 This script shows how many types of animals are in a certain category in a zoo.
 
 
-## Resursion 
+## Recursion
 
 ### is_power_of.py
 This function returns whether the number is a power of the given base. Note: base is assumed to be a positive number.
+
+## sum_positive_numbers.py
+The function sum_positive_numbers returns the sum of all positive numbers between the number n received and 1. For example, when n is 3 it returns 1+2+3=6, and when n is 5 it returns 1+2+3+4+5=15.
