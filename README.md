@@ -149,3 +149,6 @@ This function returns whether the number is a power of the given base. Note: bas
 
 ## sum_positive_numbers.py
 The function sum_positive_numbers returns the sum of all positive numbers between the number n received and 1. For example, when n is 3 it returns 1+2+3=6, and when n is 5 it returns 1+2+3+4+5=15.
+
+## convert_distance.py
+The convert_distance function returns the phrase "X miles equals Y km", with Y having only 1 decimal place. For example, convert_distance(12) returns "12 miles equals 19.2 km".

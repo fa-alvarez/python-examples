@@ -141,10 +141,13 @@ Tenemos dos muebles: una mesa de madera café y un sofá de cuero rojo.  La func
 Este código muestra cuántos tipos de animales hay en una cierta categoría de un zoológico.
 
 
-## Resursion
+## Recursion
 
 ### is_power_of.py
 Esta función devuelve si un número es potencia de una determinada base.  Nota: se asume que la base es un número positivo.
 
 ## sum_positive_numbers.py
 La función sum_positive_numbers devuelve la suma de todos los números positivos entre el número n recibido y 1.  Por ejemplo, cuando n es 3 devuelve 1+2+3=6, y cuando n es 5 devuelve 1+2+3+4+5=15.
+
+## convert_distance.py
+The convert_distance function returns the phrase "X miles equals Y km", with Y having only 1 decimal place. For example, convert_distance(12) returns "12 miles equals 19.2 km".
