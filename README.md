@@ -155,3 +155,6 @@ The function sum_positive_numbers returns the sum of all positive numbers betwee
 
 ### convert_distance.py
 The convert_distance function returns the phrase "X miles equals Y km", with Y having only 1 decimal place. For example, convert_distance(12) returns "12 miles equals 19.2 km".
+
+### double_word.py
+The double_word function returns the same word repeated twice, followed by the length of the new doubled word.  For example, double_word("hello") returns "hellohello10".
