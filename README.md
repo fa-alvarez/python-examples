@@ -158,3 +158,6 @@ The convert_distance function returns the phrase "X miles equals Y km", with Y h
 
 ### double_word.py
 The double_word function returns the same word repeated twice, followed by the length of the new doubled word.  For example, double_word("hello") returns "hellohello10".
+
+### ex_format_method1.py
+This is an example of using the format() method on a string.
