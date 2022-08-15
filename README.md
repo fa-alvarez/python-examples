@@ -164,3 +164,6 @@ This is an example of using the format() method on a string.
 
 ### ex_format_method2.py
 This is another example of using the format() method on a string.
+
+### ex_index.py
+This example shows how to find out the position of "x" in "supercalifragilisticexpialidocious" using the index method.

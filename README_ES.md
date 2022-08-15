@@ -163,3 +163,6 @@ Este es un ejemplo del método format() usando un string.
 
 ### ex_format_method2.py
 Este es otro ejemplo del método format() usando un string.
+
+### ex_index.py
+Este ejemplo muestra cómo encontrar la posición de "x" en "supercalifragilisticexpialidocious" usando el método index.
