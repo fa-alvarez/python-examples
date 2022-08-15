@@ -160,3 +160,6 @@ La función double_word devuelve la misma palabra repetida dos veces, seguido po
 
 ### ex_format_method1.py
 Este es un ejemplo del método format() usando un string.
+
+### ex_format_method2.py
+Este es otro ejemplo del método format() usando un string.
