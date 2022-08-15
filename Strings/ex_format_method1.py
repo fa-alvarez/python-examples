@@ -10,4 +10,4 @@ print(formatted_string)
 
 """Outputs:
 this is an example of using the format() method on a string
-"""
+""" 
