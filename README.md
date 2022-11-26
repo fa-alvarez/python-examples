@@ -167,3 +167,6 @@ This is another example of using the format() method on a string.
 
 ### ex_index.py
 This example shows how to find out the position of "x" in "supercalifragilisticexpialidocious" using the index method.
+
+### first_and_last.py
+This function returns True if the first letter of the string is the same as the last letter of the string, and False if they're different.  An empty string returns True.

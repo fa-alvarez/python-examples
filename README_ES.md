@@ -166,3 +166,6 @@ Este es otro ejemplo del método format() usando un string.
 
 ### ex_index.py
 Este ejemplo muestra cómo encontrar la posición de "x" en "supercalifragilisticexpialidocious" usando el método index.
+
+### first_and_last.py
+Esta función devuelve True (Verdadero) si la primera letra de una cadena es igual a su última letra, y False (Falso) si son diferentes.  Una cadena vacía devuelve True.
