@@ -43,6 +43,9 @@ The email_list function receives a dictionary, which contains domain names as ke
 ### groups_per_user.py
 The groups_per_user function receives a dictionary, which contains group names with the list of users. Users can belong to multiple groups. It returns a dictionary with the users as keys and a list of their groups as values.
 
+### wardrobe.py
+In Python, a dictionary can only hold a single value for a given key. To workaround this, the single value can be a list containing multiple values. This code has a dictionary called "wardrobe" with items of clothing and their colors.
+
 
 ## Functions
 

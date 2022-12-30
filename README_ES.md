@@ -43,6 +43,9 @@ La función email_list recibe un diccionario, el cual contiene nombres de domini
 ### groups_per_user.py
 La función groups_per_user recibe un diccionario, el cual contiene nombres de grupo con la lista de usuarios.  Los usuarios pueden pertenecer a múltiples grupos.  Devuelve un diccionario con los usuarios como claves y una lista de sus grupos como valores.
 
+### wardrobe.py
+En Python, un diccionario solo puede contener un valor único para una clave dada.  Para solucionar esto, el valor único puede ser una lista conteniendo múltiples valores.  Este código tiene un diccionario llamado "wardrobe" (guardaropa) con artículos de ropa y sus colores.
+
 
 ## Functions
 
