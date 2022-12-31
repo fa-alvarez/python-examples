@@ -173,3 +173,6 @@ This example shows how to find out the position of "x" in "supercalifragilistice
 
 ### first_and_last.py
 This function returns True if the first letter of the string is the same as the last letter of the string, and False if they're different.  An empty string returns True.
+
+### highlight_word.py
+The highlight_word function changes the given word in a sentence to its upper-case version. For example, highlight_word("Have a nice day", "nice") returns "Have a NICE day". 
