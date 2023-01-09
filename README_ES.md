@@ -175,3 +175,6 @@ Este ejemplo muestra cómo encontrar la posición de "x" en "supercalifragilisti
 
 ### first_and_last.py
 Esta función devuelve True (Verdadero) si la primera letra de una cadena es igual a su última letra, y False (Falso) si son diferentes.  Una cadena vacía devuelve True.
+
+### highlight_word.py
+La función highlight_word cambia una palabra dada en una oración por su versión en mayúsculas.  Por ejemplo, highlight_word("Have a nice day", "nice") devuelve "Have a NICE day". 
