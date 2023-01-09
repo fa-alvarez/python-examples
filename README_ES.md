@@ -31,6 +31,9 @@ La función number_group devuelve "Positive" si el número recibido es positivo,
 ### add_prices.py
 La función add_prices devuelve el precio total de todos los comestibles en el diccionario.
 
+### car_listing.py
+En este código se itera el dictionario car_prices a través de sus llaves y valores, imprimiendo cierta información sobre cada uno.
+
 ### combine_guests.py
 Taylor y Rory están organizando una fiesta.  Enviaron invitaciones y cada uno guardó las respuestas en diccionarios con los nombres de sus amigos y cuántos invitados cada uno traería.  Cada diccionario es una lista parcial, pero la lista de Rory tiene información más actualizada sobre el número de invitados.  Esta función combina ambos diccionarios en uno, con cada amigo listado una sola vez, y el número de invitados del diccionario de Rory tomando precedencia en caso de que el nombre esté incluido en ambos diccionarios.  Luego, la función imprime el diccionario resultante.
 
