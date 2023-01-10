@@ -55,6 +55,9 @@ En Python, un diccionario solo puede contener un valor único para una clave dad
 ### convert_distance.py
 La función convert_distance convierte millas en kilómetros (km).
 
+### get_seconds.py
+La función get_seconds convierte horas y minutos en segundos.  Este ejemplo resuelve la cantidad de segundos en 2 horas y 30 minutos, luego agrega este número a la cantidad de segundos en 45 minutos y 15 segundos, y luego imprime el resultado.
+
 ### order_numbers.py
 La función order_numbers compara dos números y los devuelve en orden creciente.
 

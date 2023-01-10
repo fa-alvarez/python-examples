@@ -55,6 +55,9 @@ In Python, a dictionary can only hold a single value for a given key. To workaro
 ### convert_distance.py
 This function converts miles to kilometers (km).
 
+### get_seconds.py
+The get_seconds function converts hours and minutes to seconds.  This example works out the amount of seconds in 2 hours and 30  minutes, then adds this number to the amount of seconds in 45 minutes and 15 seconds, then prints the result.
+
 ### order_numbers.py
 This function compares two numbers and returns them in increasing order.
 
