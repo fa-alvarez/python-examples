@@ -58,6 +58,9 @@ This function converts miles to kilometers (km).
 ### get_seconds.py
 The get_seconds function converts hours and minutes to seconds.  This example works out the amount of seconds in 2 hours and 30  minutes, then adds this number to the amount of seconds in 45 minutes and 15 seconds, then prints the result.
 
+### lucky_number.py
+The lucky_number function returns a message with a lucky number determined by 9 times the length of the given name.
+
 ### order_numbers.py
 This function compares two numbers and returns them in increasing order.
 

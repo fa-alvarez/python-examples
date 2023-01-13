@@ -58,6 +58,9 @@ La función convert_distance convierte millas en kilómetros (km).
 ### get_seconds.py
 La función get_seconds convierte horas y minutos en segundos.  Este ejemplo resuelve la cantidad de segundos en 2 horas y 30 minutos, luego agrega este número a la cantidad de segundos en 45 minutos y 15 segundos, y luego imprime el resultado.
 
+### lucky_number.py
+La función lucky_number devuelve un mensaje con un número de suerte determinado por 9 multiplicado por la longitud del nombre dado.
+
 ### order_numbers.py
 La función order_numbers compara dos números y los devuelve en orden creciente.
 
