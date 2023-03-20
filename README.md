@@ -185,3 +185,6 @@ This function returns True if the first letter of the string is the same as the 
 
 ### highlight_word.py
 The highlight_word function changes the given word in a sentence to its upper-case version. For example, highlight_word("Have a nice day", "nice") returns "Have a NICE day". 
+
+### initials.py
+The initials function returns the initials of the words contained in the phrase received, in upper case. For example: "Universal Serial Bus" should return "USB"; "local area network" should return "LAN”.

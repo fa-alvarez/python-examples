@@ -184,3 +184,6 @@ Esta función devuelve True (Verdadero) si la primera letra de una cadena es igu
 
 ### highlight_word.py
 La función highlight_word cambia una palabra dada en una oración por su versión en mayúsculas.  Por ejemplo, highlight_word("Have a nice day", "nice") devuelve "Have a NICE day". 
+
+### initials.py
+La función initials devuelve las iniciales de las palabras contenidas en la frase recibida, en mayúsculas.  Por ejemplo: "Universal Serial Bus" devuelve "USB"; "local area network" devuelve "LAN”.
